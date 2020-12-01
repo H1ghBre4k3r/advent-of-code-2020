@@ -1,6 +1,6 @@
 # Advent of Code
 
-These are my ugly solution for the programming tasks of [`Advent of Code 2020`](https://adventofcode.com).
+These are my ugly solutions for the programming tasks of [`Advent of Code 2020`](https://adventofcode.com).
 
 Feel free to take some inspiration, but i cannot guarantee functional correctness, since i try to use another language each day. 
 
