@@ -2,7 +2,7 @@
 
 These are my ugly solutions for the programming tasks of [`Advent of Code 2020`](https://adventofcode.com).
 
-Feel free to take some inspiration, but i cannot guarantee functional correctness, since i try to use another language each day. 
+Feel free to take this as inspiration, but i cannot guarantee functional correctness, since i try to use another language each day. 
 
 ### Overview 
 
